@@ -1,0 +1,5 @@
+  1286  7:40    git init MyGit
+  1287  7:40    cd MyGit
+  1288  7:40    git clone https://github.com/hleung168/hello-world.git
+  1289  7:40    git status
+ 
